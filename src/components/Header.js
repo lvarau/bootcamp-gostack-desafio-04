@@ -1,5 +1,5 @@
 import React from 'react';
-import profile from '../assets/Facebook-PNG-Clipart.png';
+import profile from '../assets/facewhite.png';
 import { MdAccountCircle } from 'react-icons/md';
 
 function Header() {
