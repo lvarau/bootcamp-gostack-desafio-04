@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 
 * {
   margin: 0;
@@ -41,7 +41,7 @@ nav img {
 
 nav > span {
   font-size: 20px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin-right: 8px;
 }
 
@@ -82,6 +82,9 @@ svg {
 .post-header .details span {
   margin-left: 10px;
   align-items: center;
+  color: #c7bfbf;
+  font-weight: bold;
+  font-size: 12px;
 }
 .avatar {
   min-height: 32px;

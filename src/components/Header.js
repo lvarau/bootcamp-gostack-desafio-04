@@ -1,12 +1,12 @@
-import React from 'react';
-import profile from '../assets/facewhite.png';
-import { MdAccountCircle } from 'react-icons/md';
+import React from "react";
+import logoFace from "../assets/facewhite.png";
+import { MdAccountCircle } from "react-icons/md";
 
 function Header() {
   return (
     <header>
       <nav>
-        <img src={profile} alt="facebook" />
+        <img src={logoFace} alt="facebook" />
         <div>
           <span>Meu perfil</span>
           <MdAccountCircle />
